@@ -7,7 +7,7 @@ HOLA, SOY...
 
 ###
 
-<h3 align="center>Spring Boot | Nest JS | Angular CLI | Flutter | SQL | MySQL | SQLServer | SQLite | Firebase</h3>
+Spring Boot | Nest JS | Angular CLI | Flutter | SQL | MySQL | SQLServer | SQLite | Firebase
 
 ###
 
